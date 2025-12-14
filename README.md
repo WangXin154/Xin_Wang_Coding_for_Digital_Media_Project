@@ -8,13 +8,19 @@ Follow the steps in [the project repository setup instructions](https://moodle.a
 ## Project title: Coding_for_Digital_Media_Project_Xin_Wang
 ## Link to project video recording:  
 
-https://git.arts.ac.uk/user-attachments/assets/24a92ff4-8934-4481-ba88-6b629d89db09
 
 
-https://git.arts.ac.uk/user-attachments/assets/ca35f9a7-bc8c-4b74-a414-0d50ff770c39
+
+https://github.com/user-attachments/assets/61984cc0-ceef-4ce1-9682-168de9bd11fe
 
 
-https://git.arts.ac.uk/user-attachments/assets/c1e58224-354c-4057-ad93-53a1d3efef35
+
+https://github.com/user-attachments/assets/662aabd6-fe57-4597-9881-a0231d29cee2
+
+
+
+
+
 
 
 
