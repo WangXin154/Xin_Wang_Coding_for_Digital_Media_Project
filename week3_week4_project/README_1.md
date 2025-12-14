@@ -126,7 +126,11 @@ Goes well with the drum beat/rhythm
 But my first implementation failed because I triggered the shake with a "sample start/end event", resulting in irregular jitter that didn't reflect the musical structure.
 
 
-https://git.arts.ac.uk/user-attachments/assets/c77dba56-9a53-49ce-95f5-732819c764b8
+
+
+https://github.com/user-attachments/assets/419e49f3-93eb-40a3-9de6-ba0aa9adecd7
+
+
 
 
 Switching to continuous amplitude **energy** produced far more coherent motion.
@@ -164,7 +168,9 @@ This made me realize that when doing audio-driven vision, **you need to not only
 
 
 
-https://git.arts.ac.uk/user-attachments/assets/f583c514-e00b-48fc-9ad2-a266d6493900
+
+
+
 
 
 ---
