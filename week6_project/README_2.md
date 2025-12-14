@@ -17,7 +17,8 @@ In this week's project, I used the manhole dataset to generate a photomosaic of 
 
 The manhole cover dataset I used:
 <https://universe.roboflow.com/manhole-dataset/manhole-cover-1>
-<img width="914" alt="dataset" src="https://git.arts.ac.uk/user-attachments/assets/4b62c658-f016-4309-8665-543e617993c2" />
+<img width="914" height="494" alt="dataset" src="https://github.com/user-attachments/assets/ad229601-528d-49f5-b731-7c1dfd95dcd4" />
+
 
 **Manhole covers** embody several contradictions:
 - They are essential infrastructure yet largely unnoticed. 
@@ -25,7 +26,8 @@ The manhole cover dataset I used:
 - They record traces of daily human life but usually remain in the visual background.
 
 In contrast, the **world map** represents:
-![22543a5O-2](https://git.arts.ac.uk/user-attachments/assets/d8c0989e-17d5-46d1-85e6-65f8016840f3)
+![22543a5O-2](https://github.com/user-attachments/assets/bd50f00f-1107-4a61-a91e-1de45f7e1422)
+
 
 - national borders, geopolitics, and territorial imaginaries
 - a macro perspective often associated with power and abstraction
@@ -59,7 +61,8 @@ image_values = np.apply_over_axes(np.mean, dataset, [1, 2]).reshape(dataset.shap
 tree = spatial.KDTree(image_values)
 ```
 Each manhole cover image is converted into a thumbnail (64x64) and an RGB average vector (for color matching).
-<img width="566" alt="image_1" src="https://git.arts.ac.uk/user-attachments/assets/c581bf11-cf73-4f7b-9c2c-5fe7b8725b27" />
+<img width="566" height="328" alt="image_1" src="https://github.com/user-attachments/assets/2b3c64a8-caad-45a8-975f-53c3b3cd6a0e" />
+
 
 For the full image, please open mosaic_1.png
 
@@ -101,7 +104,9 @@ This is also a **visual and political choice**:
 This improves clarity and foregrounds the landmass, reinforcing conceptual distinctions between:
 - what is *selected* vs. what is ignored
 - what becomes *visible* vs. what becomes background
-<img width="971" alt="image_2" src="https://git.arts.ac.uk/user-attachments/assets/a803c30a-38bc-482c-8e24-99474f2752b3" />
+<img width="971" height="608" alt="image_2" src="https://github.com/user-attachments/assets/76a420c5-0ff0-4155-a6c7-df8a569451b7" />
+
+
 For the full image, please open mosaic_2.png
 
 ---
