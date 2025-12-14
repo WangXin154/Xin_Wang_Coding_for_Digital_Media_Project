@@ -73,10 +73,11 @@ self.pixelate_region(img, x, eye_y1, x+w, eye_y2, block_size)
 
 This references artistic and activist counter-surveillance techniques aimed at disrupting biometric systems.
 
-<img width="1042" alt="week7_1" src="https://git.arts.ac.uk/user-attachments/assets/576561f7-2799-4257-8e43-621e535c4cd4" />
+
+<img width="1042" height="571" alt="week7_1" src="https://github.com/user-attachments/assets/c104066b-3dd9-40f4-bbe1-4b42809dd263" />
 
 
-https://git.arts.ac.uk/user-attachments/assets/2b11c06b-528f-4e43-9462-e6d7e19821a3
+
 
 
 **3.3 `data_leak` Mode - fabricated biometric profiling**
@@ -99,7 +100,9 @@ This mode satirises:
 
 by demonstrating how arbitrary and absurd these classifications can be.
 
-<img width="837" alt="week7_2" src="https://git.arts.ac.uk/user-attachments/assets/4663f1e9-d85c-48ba-9169-08304a414ceb" />
+<img width="837" height="569" alt="week7_2" src="https://github.com/user-attachments/assets/fd1aeb7d-c5df-42f8-b9ba-d034f3fdd9a3" />
+
+
 
 This is actually a satire on the absurdity of automatically judging risk/emotion/identity in surveillance systems.
 
@@ -113,7 +116,7 @@ High-intensity movement triggers:
 This simulates the breakdown point of surveillance systems:
 **If the system cannot stabilise you, it cannot classify you.**
 
-https://git.arts.ac.uk/user-attachments/assets/ffa3adb4-17f6-4b88-b354-786569b80c28
+
 
 ---
 
