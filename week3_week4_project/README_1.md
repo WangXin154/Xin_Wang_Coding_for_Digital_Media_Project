@@ -105,7 +105,8 @@ The background is a deep brown-red:
 ```
 dot.background((120, 0, 0))
 ```
-![image](https://git.arts.ac.uk/user-attachments/assets/59e917ab-0cce-4af5-b9de-c05158d6064d)
+<img width="450" height="446" alt="屏幕截图 2025-11-16 205108" src="https://github.com/user-attachments/assets/3787bb2e-c006-4d20-8b9c-74ad590d7888" />
+
 
 
 And many flowers are arranged around the perimeter of the image, creating a **crowded, over-decorated** effect—which is also the aesthetic characteristic of Northeast China that I want to emphasize.
